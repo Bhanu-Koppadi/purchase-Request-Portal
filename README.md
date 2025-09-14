@@ -1,6 +1,6 @@
 # Purchase Request Portal
 
-Welcome to the *Purchase Request Portal* — a simple, clean, and user-friendly web application designed to help employees create purchase requests and supervisors review them efficiently. This project is built using *HTML* and *CSS*, ensuring a smooth and accessible user experience across devices.
+Welcome to the *Purchase Request Portal* a simple, clean, and user-friendly web application designed to help employees create purchase requests and supervisors review them efficiently. This project is built using *HTML* and *CSS*, ensuring a smooth and accessible user experience across devices.
 
 ---
 
