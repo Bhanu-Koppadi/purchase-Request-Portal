@@ -83,4 +83,4 @@ This project is designed for hackathon purposes and learning. Contributions are 
 ---
 
 *Thank you for checking out this project!*  
-Happy coding and best wishes for the hackathon! 🚀🎯📂✨
+Happy coding and best wishes for the hackathon! 
